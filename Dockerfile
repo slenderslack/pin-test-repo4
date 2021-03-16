@@ -1,4 +1,4 @@
-FROM 111664719423.dkr.ecr.us-east-1.amazonaws.com/pin-test-repo1@sha256:0bc3e2aae51f6516f0bb0dabcba517abbdee9415674c1c30ad7299fddf923d86
+FROM 111664719423.dkr.ecr.us-east-1.amazonaws.com/pin-test-repo1@sha256:11a1f66a03b2af0a15069a1f295dc6ea0e5706e10f486e7c5a6328c6867cb5b2
 ARG REVISION
 ARG SOURCE
 LABEL org.opencontainers.image.revision=$REVISION
